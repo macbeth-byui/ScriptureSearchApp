@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scripture Search</string>
+    <plurals name="num_matches">
+        <item quantity="one">%d Match</item>
+        <item quantity="other">%d Matches</item>
+    </plurals>
+    <string-array name="volumes">
+        <item>All Volumes</item>
+        <item>Old Testament</item>
+        <item>New Testament</item>
+        <item>Book of Mormon</item>
+        <item>Doctrine &amp; Covenants</item>
+        <item>Pearl of Great Price</item>
+    </string-array>
+</resources>
